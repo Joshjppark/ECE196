@@ -19,4 +19,4 @@
 <br/><br/>
 ## Tien Vu
 
-<p><img src="/pictures/tien.png" alt="Tien" style="float:left;width:200px;padding: 0px 20px 0px 0px;">Hi, I’m tien vu and i’m a third year  majoring in electrical engineering with a depth in signal processing. My hometown is huntington beach, CA and I LOVE ece196.</p>
+<p><img src="pictures/tien.png" alt="Tien" style="float:left;width:200px;padding: 0px 20px 0px 0px;">Hi, I’m tien vu and i’m a third year  majoring in electrical engineering with a depth in signal processing. My hometown is huntington beach, CA and I LOVE ece196.</p>

@@ -1,4 +1,4 @@
-<img src="ucsdlogo.png" alt="drawing" width="200"/>
+<img src="pictures/ucsdlogo.png" alt="drawing" width="200"/>
 <br/><br/>
 
 
